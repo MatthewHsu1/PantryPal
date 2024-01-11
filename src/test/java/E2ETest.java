@@ -55,10 +55,10 @@ class E2ETest {
         recipeDetailPage.update();
 
         assertNull(recipeDetailPage.getResponse());
-        String image = chatGPT.generateImage("Image");
+        //String image = chatGPT.generateImage("Image");
 
         RecipeCard recipeCard = mock(RecipeCard.class);
-        recipeCard.setImage(image);
+        //recipeCard.setImage(image);
         
         recipeCard.addRecipeDetail(recipeDetailPage);
         assertNull(recipeCard.getRecipeDetailPage());
