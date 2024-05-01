@@ -8,7 +8,7 @@ Github link: https://github.com/ucsd-cse110-fa23/cse-110-project-team-13.git
 PantryPal uses audio input for meal types and a list of available ingredients, the app employs the ChatGPT API to generate bespoke recipes. Each recipe is complemented with a unique image, meticulously rendered by the Dall-E API. enhancing the visual appeal. PantryPal allows the user to modify these AI generated recipe to fit their needs, and share URLs of the generaed recipes with friends! 
 
 ## Demo
-https://img.youtube.com/vi/t3-_FpZTYsY/maxresdefault.jpg
+[![Pantry Pal](https://img.youtube.com/vi/t3-_FpZTYsY/0.jpg)](https://www.youtube.com/watch?v=t3-_FpZTYsY)
 
 ## Getting Started + Installation
 
